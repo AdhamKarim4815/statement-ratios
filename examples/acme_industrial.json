@@ -1,0 +1,111 @@
+{
+  "company": "Acme Industrial Co.",
+  "currency": "USD",
+  "units": "thousands",
+  "synthetic": true,
+  "note": "Fictional industrial manufacturer. All figures are made up.",
+  "years": [
+    {
+      "year": 2022,
+      "income_statement": {
+        "revenue": 800000,
+        "cost_of_goods_sold": 568000,
+        "operating_income": 72000,
+        "interest_expense": 9000,
+        "income_before_tax": 63000,
+        "income_tax_expense": 15750,
+        "net_income": 47250
+      },
+      "balance_sheet": {
+        "cash": 55000,
+        "short_term_investments": 0,
+        "receivables": 108000,
+        "inventory": 135000,
+        "current_assets": 308000,
+        "total_assets": 705000,
+        "accounts_payable": 70000,
+        "current_liabilities": 133000,
+        "short_term_debt": 30000,
+        "long_term_debt": 160000,
+        "total_liabilities": 330000,
+        "total_equity": 375000,
+        "retained_earnings": 230000,
+        "market_value_equity": 560000,
+        "shares_outstanding": 100000
+      },
+      "cash_flow": {
+        "operating_cash_flow": 62000,
+        "capital_expenditures": 48000,
+        "depreciation_amortization": 41000
+      }
+    },
+    {
+      "year": 2023,
+      "income_statement": {
+        "revenue": 860000,
+        "cost_of_goods_sold": 602000,
+        "operating_income": 83000,
+        "interest_expense": 8800,
+        "income_before_tax": 74200,
+        "income_tax_expense": 18550,
+        "net_income": 55650
+      },
+      "balance_sheet": {
+        "cash": 62000,
+        "short_term_investments": 0,
+        "receivables": 112000,
+        "inventory": 140000,
+        "current_assets": 324000,
+        "total_assets": 742000,
+        "accounts_payable": 80000,
+        "current_liabilities": 150000,
+        "short_term_debt": 30000,
+        "long_term_debt": 145000,
+        "total_liabilities": 332000,
+        "total_equity": 410000,
+        "retained_earnings": 265000,
+        "market_value_equity": 640000,
+        "shares_outstanding": 102000
+      },
+      "cash_flow": {
+        "operating_cash_flow": 74000,
+        "capital_expenditures": 52000,
+        "depreciation_amortization": 42000
+      }
+    },
+    {
+      "year": 2024,
+      "income_statement": {
+        "revenue": 925000,
+        "cost_of_goods_sold": 643000,
+        "operating_income": 96000,
+        "interest_expense": 8200,
+        "income_before_tax": 87800,
+        "income_tax_expense": 21950,
+        "net_income": 65850
+      },
+      "balance_sheet": {
+        "cash": 78000,
+        "short_term_investments": 0,
+        "receivables": 118000,
+        "inventory": 138000,
+        "current_assets": 345000,
+        "total_assets": 753000,
+        "accounts_payable": 78000,
+        "current_liabilities": 135000,
+        "short_term_debt": 20000,
+        "long_term_debt": 130000,
+        "total_liabilities": 303000,
+        "total_equity": 450000,
+        "retained_earnings": 305000,
+        "market_value_equity": 780000,
+        "shares_outstanding": 101500
+      },
+      "cash_flow": {
+        "operating_cash_flow": 88000,
+        "capital_expenditures": 55000,
+        "depreciation_amortization": 43000
+      }
+    }
+  ]
+}

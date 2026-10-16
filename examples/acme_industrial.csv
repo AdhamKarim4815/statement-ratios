@@ -1,0 +1,31 @@
+statement,item,2022,2023,2024
+meta,company,Acme Industrial Co.
+meta,currency,USD
+meta,units,thousands
+meta,synthetic,true
+meta,note,Fictional industrial manufacturer. All figures are made up.
+income_statement,revenue,800000,860000,925000
+income_statement,cost_of_goods_sold,568000,602000,643000
+income_statement,operating_income,72000,83000,96000
+income_statement,interest_expense,9000,8800,8200
+income_statement,income_before_tax,63000,74200,87800
+income_statement,income_tax_expense,15750,18550,21950
+income_statement,net_income,47250,55650,65850
+balance_sheet,cash,55000,62000,78000
+balance_sheet,short_term_investments,0,0,0
+balance_sheet,receivables,108000,112000,118000
+balance_sheet,inventory,135000,140000,138000
+balance_sheet,current_assets,308000,324000,345000
+balance_sheet,total_assets,705000,742000,753000
+balance_sheet,accounts_payable,70000,80000,78000
+balance_sheet,current_liabilities,133000,150000,135000
+balance_sheet,short_term_debt,30000,30000,20000
+balance_sheet,long_term_debt,160000,145000,130000
+balance_sheet,total_liabilities,330000,332000,303000
+balance_sheet,total_equity,375000,410000,450000
+balance_sheet,retained_earnings,230000,265000,305000
+balance_sheet,market_value_equity,560000,640000,780000
+balance_sheet,shares_outstanding,100000,102000,101500
+cash_flow,operating_cash_flow,62000,74000,88000
+cash_flow,capital_expenditures,48000,52000,55000
+cash_flow,depreciation_amortization,41000,42000,43000

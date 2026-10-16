@@ -1,0 +1,111 @@
+{
+  "company": "Nimbus Cloud Software Inc.",
+  "currency": "USD",
+  "units": "thousands",
+  "synthetic": true,
+  "note": "Fictional SaaS company. All figures are made up.",
+  "years": [
+    {
+      "year": 2022,
+      "income_statement": {
+        "revenue": 120000,
+        "cost_of_goods_sold": 36000,
+        "operating_income": -18000,
+        "interest_expense": 1500,
+        "income_before_tax": -19200,
+        "income_tax_expense": 200,
+        "net_income": -19400
+      },
+      "balance_sheet": {
+        "cash": 140000,
+        "short_term_investments": 60000,
+        "receivables": 30000,
+        "inventory": 0,
+        "current_assets": 240000,
+        "total_assets": 360000,
+        "accounts_payable": 6000,
+        "current_liabilities": 60000,
+        "short_term_debt": 0,
+        "long_term_debt": 50000,
+        "total_liabilities": 120000,
+        "total_equity": 240000,
+        "retained_earnings": -90000,
+        "market_value_equity": 1400000,
+        "shares_outstanding": 80000
+      },
+      "cash_flow": {
+        "operating_cash_flow": -4000,
+        "capital_expenditures": 6000,
+        "depreciation_amortization": 9000
+      }
+    },
+    {
+      "year": 2023,
+      "income_statement": {
+        "revenue": 168000,
+        "cost_of_goods_sold": 47000,
+        "operating_income": -3000,
+        "interest_expense": 1500,
+        "income_before_tax": -4200,
+        "income_tax_expense": 250,
+        "net_income": -4450
+      },
+      "balance_sheet": {
+        "cash": 150000,
+        "short_term_investments": 55000,
+        "receivables": 42000,
+        "inventory": 0,
+        "current_assets": 259000,
+        "total_assets": 400000,
+        "accounts_payable": 8000,
+        "current_liabilities": 90000,
+        "short_term_debt": 0,
+        "long_term_debt": 50000,
+        "total_liabilities": 150000,
+        "total_equity": 250000,
+        "retained_earnings": -94450,
+        "market_value_equity": 1700000,
+        "shares_outstanding": 82000
+      },
+      "cash_flow": {
+        "operating_cash_flow": 21000,
+        "capital_expenditures": 7000,
+        "depreciation_amortization": 10000
+      }
+    },
+    {
+      "year": 2024,
+      "income_statement": {
+        "revenue": 218000,
+        "cost_of_goods_sold": 58000,
+        "operating_income": 17000,
+        "interest_expense": 1400,
+        "income_before_tax": 16000,
+        "income_tax_expense": 2400,
+        "net_income": 13600
+      },
+      "balance_sheet": {
+        "cash": 175000,
+        "short_term_investments": 60000,
+        "receivables": 54000,
+        "inventory": 0,
+        "current_assets": 303000,
+        "total_assets": 450000,
+        "accounts_payable": 9000,
+        "current_liabilities": 120000,
+        "short_term_debt": 10000,
+        "long_term_debt": 40000,
+        "total_liabilities": 170000,
+        "total_equity": 280000,
+        "retained_earnings": -80850,
+        "market_value_equity": 2300000,
+        "shares_outstanding": 84000
+      },
+      "cash_flow": {
+        "operating_cash_flow": 46000,
+        "capital_expenditures": 8000,
+        "depreciation_amortization": 11000
+      }
+    }
+  ]
+}
