@@ -4,6 +4,8 @@
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
+![statement-ratios analyze output on a synthetic example company](docs/cli.png)
+
 Turn income statement, balance sheet and cash flow numbers into liquidity, leverage, profitability, efficiency, DuPont, Altman Z and Piotroski F analysis with plain-English flags, from one command and zero dependencies.
 
 Built by Adham Karim.
